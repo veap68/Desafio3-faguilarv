@@ -54,7 +54,8 @@ small,
 .header {
   width: 1280px;
   height: 727px;
-  background-image: url("assets/img/bg-header.jpg");
+  background-image: url("/Desafio3/assets/img/bg-header.jpg");
+
   background-size: cover;
 }
 /* estilo para la seccion de texto con imagenes*/
