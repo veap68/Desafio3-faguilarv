@@ -13,7 +13,21 @@ body {
   line-height: 1.75;
   background-color: #000000;
 }
+header h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 0.2em;
+  font-family: "Poiret One", cursive;
+  letter-spacing: 0.4em;
+  font-weight: 900;
+}
 
+.imgHeader {
+  text-align: center;
+  width: 100%;
+  height: 727px;
+}
 p {
   margin-bottom: 1rem;
 }
